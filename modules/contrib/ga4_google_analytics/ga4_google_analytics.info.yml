@@ -1,0 +1,11 @@
+name: 'GA4 Google Analytics'
+type: module
+description: 'A simple module to integrate Google Analytics GA4 tracking into your Drupal site.'
+core_version_requirement: ^9 || ^10 || ^11
+package: 'GA4 Google Analytics'
+configure: ga4_google_analytics.configure
+
+# Information added by Drupal.org packaging script on 2025-01-28
+version: '1.1.7'
+project: 'ga4_google_analytics'
+datestamp: 1738034905
